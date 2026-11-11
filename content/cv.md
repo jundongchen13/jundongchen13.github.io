@@ -12,14 +12,19 @@
 - Major: Computer Science and Technology
 - Minor: Artificial Intelligence
 
-## Services
 
+## Honors & Awards
+- First-Class Doctoral Academic Scholarship, Beijing Jiaotong University
+- Merit Graduate Student, Beijing Jiaotong University
+
+
+## Services
 **Reviewers:**
-- 2026: IEEE TKDE, ACM MM
+- 2026: IEEE TKDE, ACM MM, WWW
 - 2025: IEEE TKDE
 
-## Experience
 
+## Experience
 [**Momenta**](https://www.momenta.cn), Navi Model Intern, 2024.02 - 2024.08.
 
 
